@@ -96,5 +96,5 @@ Run the application: Open the project in your IDE and run the EmployeeManagement
 
 Open your browser: Navigate to http://localhost:8080 and you should see the application live! 🎉
 
-## Author
-  Aman Manwatkar
+## 🧑‍💻Author
+    Aman Manwatkar
